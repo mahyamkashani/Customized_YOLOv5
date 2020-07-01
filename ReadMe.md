@@ -8,7 +8,7 @@ I recommend that you follow along in this notebook while reading the blog post o
 
 ### Steps Covered in this Tutorial
 
-In this tutorial, we will walk through the steps required to train YOLOv5 on the custom objects. We use data gathered from this [Training Data](https://app.roboflow.ai/ds/YHVOx1v5iO?key=A3Ubixzabi). You can also use this notebook on your own data.
+In this tutorial, we will walk through the steps required to train YOLOv5 on the custom objects. We use our own data gathered from Real World. You can also use this notebook on your own data.
 
 To train our detector we take the following steps:
 
