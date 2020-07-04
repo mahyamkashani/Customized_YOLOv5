@@ -30,4 +30,4 @@ Conda activate (your env)
 Then:
 jupyter notebook   --NotebookApp.allow_origin='https://colab.research.google.com'   --port=8888   --NotebookApp.port_retries=0
 
-This Training is inspired by [Roboflow.ai Blog] (https://blog.roboflow.ai/) 
+This Training has been inspired by [Roboflow.ai Blog] (https://blog.roboflow.ai/) 
