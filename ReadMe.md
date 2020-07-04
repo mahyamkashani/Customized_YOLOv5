@@ -21,11 +21,13 @@ To train our detector we take the following steps:
 * Run YOLOv5 inference on test images
 * Export saved YOLOv5 weights for future inference
 
-If you want to use your local machine in colab.research.google. Type below code in your terminal.
+If you have a Strong System to run and Train your model, you can use your local machine in colab.research.google by Typing below code in the terminal.
 
-First enter below command:
+Before that enter below command:
 
 Conda activate (your env)
 
 Then:
 jupyter notebook   --NotebookApp.allow_origin='https://colab.research.google.com'   --port=8888   --NotebookApp.port_retries=0
+
+This
