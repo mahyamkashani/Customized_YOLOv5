@@ -28,6 +28,6 @@ Before that enter below command:
 Conda activate (your env)
 
 Then:
-jupyter notebook   --NotebookApp.allow_origin='[research google colab](https://colab.research.google.com)'   --port=8888   --NotebookApp.port_retries=0
+jupyter notebook   --NotebookApp.allow_origin='https://colab.research.google.com'   --port=8888   --NotebookApp.port_retries=0
 
 This Training has been inspired by [Roboflow.ai Blog](https://blog.roboflow.ai/) 
