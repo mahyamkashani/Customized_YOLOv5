@@ -23,7 +23,7 @@ To train our detector we take the following steps:
 
 If you have a Strong System to run and Train your model, you can use your local machine in <colab.research.google> by Typing below code in the terminal.
 
-Before that enter below command:
+Before that enter below command in terminal:
 
 Conda activate (your env)
 
