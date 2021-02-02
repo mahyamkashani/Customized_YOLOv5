@@ -1,6 +1,6 @@
-# How to Train YOLOv5 on Custom Objects DataSet
+# How to Train YOLOv4 on Custom Objects DataSet
 
-This tutorial is based on the [YOLOv5 repository](https://github.com/ultralytics/yolov5) by [Ultralytics](https://www.ultralytics.com/). This notebook shows training on **your own custom objects**. Many thanks to Ultralytics for putting this repository together - This algorithm combine with clean data management tools at Roboflow.
+This tutorial is based on the [YOLOv4 repository](https://github.com/ultralytics/yolov5) by [Ultralytics](https://www.ultralytics.com/). This notebook shows training on **your own custom objects**. Many thanks to Ultralytics for putting this repository together - This algorithm combine with clean data management tools at Roboflow.
 
 ### steps:
 
@@ -12,14 +12,14 @@ In this tutorial, we will walk through the steps required to train YOLOv5 on the
 
 To train our detector we take the following steps:
 
-* Install YOLOv5 dependencies
-* Download custom YOLOv5 object detection data
-* Write our YOLOv5 Training configuration
+* Install YOLOv4 dependencies
+* Download custom YOLOv4 object detection data
+* Write our YOLOv4 Training configuration
 * Run YOLOv5 training
-* Evaluate YOLOv5 performance
-* Visualize YOLOv5 training data
-* Run YOLOv5 inference on test images
-* Export saved YOLOv5 weights for future inference
+* Evaluate YOLOv4 performance
+* Visualize YOLOv4 training data
+* Run YOLOv4 inference on test images
+* Export saved YOLOv4 weights for future inference
 
 If you have a Strong System to run and Train your model, you can use your local machine in <colab.research.google> by Typing below code in the terminal.
 
