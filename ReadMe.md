@@ -1,6 +1,6 @@
-# How to Train YOLOv4 on Custom Objects DataSet
+# How to Train YOLOv5 on Custom Objects DataSet
 
-This tutorial is based on the [YOLOv4 repository](https://github.com/ultralytics/yolov5) by [Ultralytics](https://www.ultralytics.com/). This notebook shows training on **your own custom objects**. Many thanks to Ultralytics for putting this repository together - This algorithm combine with clean data management tools at Roboflow.
+This tutorial is based on the [YOLOv5 repository](https://github.com/ultralytics/yolov5) by [Ultralytics](https://www.ultralytics.com/). This notebook shows training on **your own custom objects**. Many thanks to Ultralytics for putting this repository together - This algorithm combine with clean data management tools at Roboflow.
 
 ### steps:
 
@@ -12,9 +12,9 @@ In this tutorial, we will walk through the steps required to train YOLOv5 on the
 
 To train our detector we take the following steps:
 
-* Install YOLOv4 dependencies
-* Download custom YOLOv4 object detection data
-* Write our YOLOv4 Training configuration
+* Install YOLOv5 dependencies
+* Download custom YOLOv5 object detection data
+* Write our YOLOv5 Training configuration
 * Run YOLOv5 training
 * Evaluate YOLOv4 performance
 * Visualize YOLOv4 training data
