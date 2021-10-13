@@ -16,10 +16,10 @@ To train our detector we take the following steps:
 * Download custom YOLOv5 object detection data
 * Write our YOLOv5 Training configuration
 * Run YOLOv5 training
-* Evaluate YOLOv4 performance
-* Visualize YOLOv4 training data
-* Run YOLOv4 inference on test images
-* Export saved YOLOv4 weights for future inference
+* Evaluate YOLOv5 performance
+* Visualize YOLOv5 training data
+* Run YOLOv5 inference on test images
+* Export saved YOLOv5 weights for future inference
 
 If you have a Strong System to run and Train your model, you can use your local machine in <colab.research.google> by Typing below code in the terminal.
 
